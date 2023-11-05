@@ -3,8 +3,6 @@
 # Python program that:
 # demonstrates how to print all integers of a list, in reverse order
 #
-# (C) 2022 Igbinijesu Samuel, Lagos, Nigeria
-# email igbinijesusamuel@gmail.com
 # -----------------------------------------------------------
 
 

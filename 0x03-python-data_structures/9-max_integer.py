@@ -3,8 +3,6 @@
 # Python program that:
 # demonstrates how to find the biggest integer of a list
 #
-# (C) 2022 Igbinijesu Samuel, Lagos, Nigeria
-# email igbinijesusamuel@gmail.com
 # -----------------------------------------------------------
 
 

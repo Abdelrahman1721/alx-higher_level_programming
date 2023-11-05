@@ -3,8 +3,6 @@
 # Python program that:
 # demonstrates how to replace an element from a list at a specific position like in C
 #
-# (C) 2022 Igbinijesu Samuel, Lagos, Nigeria
-# email igbinijesusamuel@gmail.com
 # -----------------------------------------------------------
 
 
